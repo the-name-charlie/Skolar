@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 5 Favorite Movies</title>
+</head>
+<body>
+    <ol>
+        <li>Movie 1
+            <ul>
+                <li>Year: 2000</li>
+                <li>Main Actors: Actor 1, Actor 2</li>
+                <li>A brief description of the movie.</li>
+            </ul>
+        </li>
+        <li>Movie 2
+            <ul>
+                <li>Year: 2001</li>
+                <li>Main Actors: Actor 3, Actor 4</li>
+                <li>A brief description of the movie.</li>
+            </ul>
+        </li>
+        <!-- Add more movies similarly -->
+    </ol>
+</body>
+</html>
