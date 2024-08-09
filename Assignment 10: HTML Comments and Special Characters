@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Comments and Special Characters</title>
+</head>
+<body>
+    <!-- This is the main heading of the page -->
+    <h1>Understanding Special Characters</h1>
+    
+    <!-- This section explains different special characters using HTML entities -->
+    <section>
+        <h2>Common Special Characters</h2>
+        <p>Here are some commonly used special characters:</p>
+        <ul>
+            <li>&amp; (Ampersand)</li> <!-- & -->
+            <li>&lt; (Less than)</li> <!-- < -->
+            <li>&gt; (Greater than)</li> <!-- > -->
+            <li>&copy; (Copyright)</li> <!-- © -->
+            <li>&reg; (Registered Trademark)</li> <!-- ® -->
+            <li>&trade; (Trademark)</li> <!-- ™ -->
+        </ul>
+    </section>
+    
+    <!-- Footer section with additional notes -->
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p> <!-- Copyright symbol -->
+        <p>Note: Special characters are represented using HTML entities to ensure they are displayed correctly in web browsers.</p>
+    </footer>
+</body>
+</html>
