@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image and Links</title>
+</head>
+<body>
+    <figure>
+        <img src="image.jpg" alt="Description of image"> <!-- Image of your choice -->
+        <figcaption>This is a caption for the image.</figcaption> <!-- Caption for the image -->
+    </figure>
+    <a href="https://sourceofimage.com">Source of the image</a> <!-- Link to the source of the image -->
+</body>
+</html>
